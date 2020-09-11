@@ -24,7 +24,7 @@
     
     <center><p>Amortização é um processo de extinção de uma dívida através de pagamentos periódicos, que são realizados em função de um planejamento, de modo que cada prestação corresponde à soma do reembolso do capital ou do pagamento dos juros do saldo devedor, podendo ser o reembolso de ambos, sendo que os juros são sempre calculados sobre o saldo devedor. </p></center>
         
-    <p>A aplicação é capaz de gerar uma tabela de Amortização Constante, tabela de amortização Americana ou uma Trabela Price,uma por vez. Funciona através de formulário e as tabelas são geradas na própria página.</p>
+    <p>A aplicação é capaz de gerar uma tabela de Amortização Constante, tabela de amortização Americana ou uma Tabela Price, uma por vez. Funciona através de formulário e as tabelas são geradas na própria página.</p>
      
     <center><h2>Integrantes do grupo: </h2></center>
     
