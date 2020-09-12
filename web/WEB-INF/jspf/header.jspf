@@ -1,4 +1,5 @@
 <%-- any content can be specified here e.g.: --%>
 <%@ page pageEncoding="UTF-8" %>
 
-<center><h1><strong>Projeto 01 - Calculo de Amortizações</strong></h1></center>
+<center><h1>Projeto 01 - Calculo de Amortizações</h1></center>
+<br>
