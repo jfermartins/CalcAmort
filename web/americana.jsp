@@ -25,8 +25,8 @@
             <label>Valor empréstimo: </label><br> <input type="text" name="SalDev"/><br/>
             <label>Taxa juros (em %):</label> <br><input type="text" name="Taxa"/><br/>
             <label>Parcelas (em meses): </label> <br><input type="text" name="Tempo"/><br/><br>
-            <button type="button" class="btn btn-primary">Calcular</button>
-            <button type="button" class="btn btn-danger">Cancelar</button>
+            <button type="submit" class="btn btn-primary">Calcular</button>
+            <button type="reset" class="btn btn-danger">Cancelar</button>
                                               
         </form><br>
         
