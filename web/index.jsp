@@ -10,26 +10,27 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-  
+        <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">  
+        
         <%@include file="WEB-INF/jspf/header.jspf" %> 
         <title>Home</title>
     </head>
     
-    <body>
+    <body style="color: gray">
         
         <nav id="menu">
         <%@include file="WEB-INF/jspf/menu.jspf" %>
         </nav>
       
-    <center> <h2>Cálculo de amortização</h2></center>
+    <center> <h3>Cálculo de amortização</h3></center>
     
     <center><p>Amortização é um processo de extinção de uma dívida através de pagamentos periódicos, que são realizados em função de um planejamento, de modo que cada prestação corresponde à soma do reembolso do capital ou do pagamento dos juros do saldo devedor, podendo ser o reembolso de ambos, sendo que os juros são sempre calculados sobre o saldo devedor. </p></center>
         
     <center><p>A aplicação é capaz de gerar uma tabela de Amortização Constante, tabela de amortização Americana ou uma Tabela Price, uma por vez. Funciona através de formulário e as tabelas são geradas na própria página.</p></center>
      
-    <center><h2>Integrantes do grupo: </h2></center>
+    <center><h4>Integrantes do grupo: </h4></center>
     
-    <center> <h3>Jane Fernanda Martins </h3></center>
+    <center> <h5>Jane Fernanda Martins </h5></center>
 
     <center><p>Desing, Tabela Price, Amortização Americana, Home e Amortização Constante.</p></center>
  <footer>
