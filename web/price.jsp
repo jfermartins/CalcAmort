@@ -29,8 +29,7 @@
 
          <div align="center">
         <h3>Tabela Price</h3>
-        <p>Tabela Price, também chamado de sistema francês de amortização, é um método usado em amortização de empréstimo cuja principal característica é apresentar prestações</p>
-        <p>(ou parcelas) iguais.</p>
+        <p>Tabela Price, também chamado de sistema francês de amortização, é um método usado em amortização de empréstimo cuja principal característica é apresentar prestações (ou parcelas) iguais.</p>
         <p>A tabela Price usa o regime de juros compostos para calcular o valor das parcelas de um empréstimo e, dessa parcela, há uma proporção relativa ao pagamento de juros e amortização do valor emprestado. </p>
         <div>
         <form>
@@ -79,10 +78,12 @@
         <br>
         </div>
         <%-- Include do rodapé --%>
-          <footer>
+         
+        <footer>
 
-                    <%@include file="WEB-INF/jspf/footer.jspf" %>
-                </footer>
+           <%@include file="WEB-INF/jspf/footer.jspf" %>
+         
+        </footer>
 
     </body>
 </html>

@@ -13,7 +13,7 @@
         <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">  
         
         <%@include file="WEB-INF/jspf/header.jspf" %> 
-        <title>Home</title>
+        <title>Página Inicial</title>
     </head>
     
     <body style="color: gray">
@@ -28,15 +28,18 @@
         
     <center><p>A aplicação é capaz de gerar uma tabela de Amortização Constante, tabela de amortização Americana ou uma Tabela Price, uma por vez. Funciona através de formulário e as tabelas são geradas na própria página.</p></center>
      
-    <center><h4>Integrantes do grupo: </h4></center>
+    <center><h4>Integrantes do grupo: </h4></center><br>
     
     <center> <h5>Jane Fernanda Martins </h5></center>
 
-    <center><p>Desing, Tabela Price, Amortização Americana, Home e Amortização Constante.</p></center>
- <footer>
+
+    <center><p>Página Inicial, Amortização Americana, Amortização Constante, Tabela Price e Design.</p></center>
+
+    <footer>
        
 <%@include file="WEB-INF/jspf/footer.jspf" %>
-</footer>
+
+    </footer>
    
        
 

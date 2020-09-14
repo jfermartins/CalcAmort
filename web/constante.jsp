@@ -83,6 +83,7 @@
                         <td><%=df.format(juros)%></td>
                         <td><%=df.format(saldodevedor)%></td>
                     <%}else{%>
+                    
                         <tr>
                             <td>>></td>  
                             <td><%=df.format(totalparcela)%></td>
